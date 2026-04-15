@@ -1,0 +1,18 @@
+Document ID: ARCH-002
+Title: Retrieval-Augmented Generation Pipeline
+
+Pipeline Steps:
+1. User Query Input
+2. Query Preprocessing (cleaning, rewriting)
+3. Embedding Generation
+4. Vector Search (Top-K retrieval)
+5. Context Aggregation
+6. LLM Response Generation
+
+Tools Used:
+- Embeddings: OpenAI / Sentence Transformers
+- Vector DB: FAISS
+- LLM: GPT-based model
+
+Optional:
+- Reranker to improve retrieval relevance

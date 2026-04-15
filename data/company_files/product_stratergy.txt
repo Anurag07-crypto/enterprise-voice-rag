@@ -1,0 +1,16 @@
+Meeting ID: MT-001
+Title: Product Strategy Sync
+Date: 2026-03-10
+
+Discussion Points:
+- Focus on improving model deployment speed
+- Users reporting latency issues on free tier
+- Consider adding batch inference feature
+
+Decisions:
+- Prioritize deployment optimization in next sprint
+- GPU access remains Pro-only
+
+Action Items:
+- Dev team to optimize inference pipeline
+- Product team to update roadmap

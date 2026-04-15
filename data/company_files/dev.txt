@@ -1,0 +1,17 @@
+Email ID: EM-001
+From: dev@technova.ai
+To: product@technova.ai
+Subject: API Latency Concern
+
+Hey team,
+
+We’re seeing consistent latency spikes on the free tier.
+This is mainly due to shared CPU usage.
+
+If we want better user experience, we might need to:
+1. Optimize inference pipeline
+2. Push more users toward GPU plans
+
+Let us know how you want to handle this.
+
+- Dev Team

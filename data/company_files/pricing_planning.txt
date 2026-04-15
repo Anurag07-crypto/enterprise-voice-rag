@@ -1,0 +1,14 @@
+Document ID: FAQ-004
+Title: Pricing FAQs
+
+Q: Is there a free plan?
+A: Yes, with 1000 API calls per month.
+
+Q: What do I get in Pro plan?
+A: Higher API limits and GPU deployment.
+
+Q: Is pricing fixed?
+A: Enterprise pricing is custom.
+
+Q: Can I upgrade anytime?
+A: Yes, upgrades are instant.

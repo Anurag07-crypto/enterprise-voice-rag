@@ -1,0 +1,15 @@
+Email ID: EM-002
+From: product@technova.ai
+To: dev@technova.ai
+Subject: Batch Inference Feature
+
+Hi,
+
+We’ve received multiple requests for batch predictions.
+Currently not supported.
+
+Can we evaluate feasibility for next sprint?
+
+Priority: Medium
+
+- Product Team

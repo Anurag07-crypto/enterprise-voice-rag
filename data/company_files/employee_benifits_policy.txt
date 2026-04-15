@@ -1,0 +1,12 @@
+Document ID: HR-006
+Title: Employee Benefits
+Company: TechNova AI
+
+Benefits include:
+- Health insurance coverage up to ₹5,00,000
+- Annual performance bonus
+- Learning stipend of ₹25,000 per year
+
+Eligibility:
+- Full-time employees only
+- Minimum 6 months tenure required

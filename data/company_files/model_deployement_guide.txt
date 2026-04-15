@@ -1,0 +1,16 @@
+Document ID: PROD-003
+Title: Model Deployment Guide
+Product: NovaAI Platform
+
+Steps to deploy a model:
+1. Upload model file (.pkl or .onnx)
+2. Configure environment settings
+3. Assign model ID
+4. Click "Deploy"
+
+Deployment Time:
+- Typically 2–5 minutes
+
+Notes:
+- Only models under 500MB are supported
+- GPU deployment available for premium users

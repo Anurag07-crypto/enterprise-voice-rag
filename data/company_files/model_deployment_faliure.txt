@@ -1,0 +1,8 @@
+Chat ID: CS-002
+
+User: My model deployment failed, not sure why.
+Support: Can you confirm the file format?
+User: It’s a .h5 file.
+Support: Currently we only support .pkl and .onnx formats.
+User: Ohh okay, got it.
+Support: You can convert your model before uploading.

@@ -1,0 +1,10 @@
+Document ID: PROD-008
+Title: Dev Notes - Monitoring Bug
+
+There’s a delay in latency metrics (~5-10 seconds lag).
+Not critical but should be fixed before next release.
+
+Also noticed logs sometimes miss edge-case failures.
+Need better logging pipeline.
+
+- Dev Team

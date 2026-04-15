@@ -1,0 +1,7 @@
+Chat ID: CS-006
+
+User: Can I deploy a model and test it without using API?
+Support: No, predictions are only accessible via API.
+User: Okay, also can I use GPU on free plan?
+Support: GPU is available only in Pro plan.
+User: Got it, thanks.

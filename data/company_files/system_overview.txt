@@ -1,0 +1,16 @@
+Document ID: ARCH-001
+Title: System Architecture Overview
+
+The NovaAI platform follows a modular microservices architecture.
+
+Core Components:
+- Frontend (React-based dashboard)
+- Backend API (FastAPI)
+- Model Service (handles inference)
+- Vector Database (FAISS/Chroma)
+- Storage Layer (S3-compatible)
+
+Data Flow:
+User → API Gateway → Backend → Model Service → Response
+
+The system is deployed using Docker containers and orchestrated via Kubernetes.

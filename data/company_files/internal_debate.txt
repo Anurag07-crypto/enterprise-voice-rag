@@ -1,0 +1,17 @@
+Email ID: EM-005
+From: product@technova.ai
+To: dev@technova.ai
+Subject: Free Tier Limits
+
+We think free tier limits are too restrictive.
+
+Users are hitting API limits too quickly.
+
+Can we increase quota?
+
+---
+
+Reply (Dev Team):
+
+Increasing limits will increase server load significantly.
+We recommend keeping limits as is or optimizing backend first.

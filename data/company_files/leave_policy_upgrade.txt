@@ -1,0 +1,16 @@
+Document ID: HR-004
+Title: Leave Policy (Revised)
+Company: TechNova AI
+
+Employees are entitled to 24 paid leaves annually.
+
+Leave Breakdown:
+- Casual Leave: 12 days
+- Sick Leave: 8 days
+- Earned Leave: 4 days
+
+Carry Forward:
+- Up to 5 unused leaves can be carried forward.
+
+Approval:
+- Manager approval required for leaves exceeding 3 days.

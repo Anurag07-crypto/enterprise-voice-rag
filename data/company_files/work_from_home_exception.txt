@@ -1,0 +1,12 @@
+Document ID: HR-005
+Title: Work From Home Exceptions
+Company: TechNova AI
+
+Employees facing medical or personal emergencies may request full-time remote work.
+
+Conditions:
+- Requires HR and manager approval.
+- Valid documentation must be submitted.
+- Approval is temporary (max 60 days).
+
+Failure to comply may revoke remote privileges.

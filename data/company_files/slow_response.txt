@@ -1,0 +1,8 @@
+Chat ID: CS-003
+
+User: Why is my prediction API so slow?
+Support: Are you using GPU deployment?
+User: No, I’m on free plan.
+Support: That might be the reason. Free tier uses shared CPU resources.
+User: So upgrading will fix it?
+Support: It should significantly improve latency.

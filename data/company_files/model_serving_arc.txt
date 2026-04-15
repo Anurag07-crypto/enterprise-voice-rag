@@ -1,0 +1,13 @@
+Document ID: ARCH-004
+Title: Model Serving System
+
+Models are served using a dedicated inference service.
+
+Key Features:
+- Supports .pkl and .onnx models
+- Loads models into memory for fast inference
+- Handles concurrent requests
+
+Optimization:
+- GPU acceleration for premium users
+- Lazy loading for infrequently used models

@@ -1,0 +1,17 @@
+Document ID: ARCH-003
+Title: API Service Design
+
+Framework: FastAPI
+
+Endpoints:
+- /predict → model inference
+- /upload → model upload
+- /health → service health check
+
+Middleware:
+- Authentication (API key validation)
+- Logging
+- Rate limiting
+
+Scaling:
+- Horizontal scaling via Kubernetes pods

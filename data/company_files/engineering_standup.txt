@@ -1,0 +1,9 @@
+Meeting ID: MT-002
+Title: Daily Standup
+
+- API latency still high during peak hours
+- Monitoring delay issue not fully fixed
+- Deployment failures mostly due to wrong formats
+
+Note:
+Need better validation before upload step.

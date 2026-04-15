@@ -1,0 +1,17 @@
+Document ID: ARCH-006
+Title: Logging and Monitoring
+
+Logging:
+- Centralized logging using ELK stack
+- Logs include API requests, errors, and latency
+
+Monitoring:
+- Prometheus for metrics collection
+- Grafana dashboards
+
+Alerts:
+- High latency
+- Error rate spikes
+
+Known Issue:
+- Monitoring data may have 5–10 second delay

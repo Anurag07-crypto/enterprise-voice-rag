@@ -1,0 +1,14 @@
+Document ID: FAQ-001
+Title: General Product FAQs
+
+Q: What does NovaAI actually do?
+A: It helps users build, deploy, and monitor ML models without managing infrastructure.
+
+Q: Who is this product for?
+A: Mainly data scientists, ML engineers, and AI startups.
+
+Q: Is coding required?
+A: Yes, basic Python knowledge is expected.
+
+Q: Can non-technical users use it?
+A: Not fully. Some UI features exist, but it's still technical.

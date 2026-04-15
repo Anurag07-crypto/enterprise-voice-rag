@@ -1,0 +1,14 @@
+Document ID: FAQ-003
+Title: API FAQs
+
+Q: Why am I getting a 401 error?
+A: Most likely your API key is missing or incorrect.
+
+Q: Is there a rate limit?
+A: Yes, depends on your plan.
+
+Q: What’s included in the response?
+A: Prediction output and a confidence score.
+
+Q: Can I test API locally?
+A: No, API works only after deployment on the platform.

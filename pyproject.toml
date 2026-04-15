@@ -1,0 +1,22 @@
+[project]
+name = "voice-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "chromadb>=1.5.7",
+    "dotenv>=0.9.9",
+    "faiss-cpu>=1.13.2",
+    "fastapi>=0.135.3",
+    "groq>=0.37.1",
+    "langchain>=1.2.15",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.2.27",
+    "langchain-groq>=1.1.2",
+    "langgraph>=1.1.6",
+    "sentence-transformers>=5.3.0",
+    "streamlit>=1.56.0",
+    "streamlit-mic-recorder>=0.0.8",
+    "uvicorn>=0.44.0",
+]

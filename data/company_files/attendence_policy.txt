@@ -1,0 +1,14 @@
+Document ID: HR-007
+Title: Attendance Policy
+Company: TechNova AI
+
+Working Hours:
+- 9:30 AM to 6:30 PM IST
+
+Late Policy:
+- More than 3 late logins/month → warning issued
+
+Absence without notice:
+- Considered unpaid leave
+
+Biometric or system login tracking is mandatory.

@@ -1,0 +1,17 @@
+Document ID: PROD-005
+Title: Pricing Plans
+Product: NovaAI Platform
+
+Plans:
+- Free Tier:
+  - 1000 API calls/month
+  - Limited model storage
+
+- Pro Tier:
+  - ₹2,999/month
+  - 50,000 API calls
+  - GPU deployment enabled
+
+- Enterprise:
+  - Custom pricing
+  - Dedicated support

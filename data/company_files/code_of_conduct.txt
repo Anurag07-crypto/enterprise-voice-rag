@@ -1,0 +1,12 @@
+Document ID: HR-003
+Title: Code of Conduct
+Company: TechNova AI
+
+All employees are expected to maintain professionalism.
+
+Key Guidelines:
+- No harassment or discrimination.
+- Respect workplace diversity.
+- Maintain confidentiality of company data.
+
+Violation of policies may result in disciplinary action or termination.

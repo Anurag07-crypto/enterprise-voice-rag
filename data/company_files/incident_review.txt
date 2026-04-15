@@ -1,0 +1,15 @@
+Meeting ID: MT-004
+Title: Incident Review - API Failure
+
+Issue:
+- API downtime for ~30 minutes
+
+Cause:
+- Model service crash due to memory overload
+
+Fix:
+- Add memory limits
+- Improve auto-restart config
+
+Outcome:
+System stabilized after restart

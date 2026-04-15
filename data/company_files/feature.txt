@@ -1,0 +1,14 @@
+Document ID: PROD-004
+Title: Real-Time Monitoring Feature
+Product: NovaAI Platform
+
+The monitoring dashboard provides:
+- Latency tracking
+- Error rates
+- Request volume
+
+Alerts:
+- Triggered when latency exceeds threshold
+- Triggered on repeated failures
+
+Logs are stored for 30 days by default.

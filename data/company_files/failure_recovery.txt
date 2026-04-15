@@ -1,0 +1,15 @@
+Document ID: ARCH-008
+Title: Failure Handling and Recovery
+
+Failure Scenarios:
+- Model service crash
+- API timeout
+- Vector DB failure
+
+Recovery:
+- Auto-restart via Kubernetes
+- Retry logic for failed requests
+- Fallback to cached responses (if available)
+
+Goal:
+Ensure high availability and minimal downtime.

@@ -1,0 +1,8 @@
+Chat ID: CS-005
+
+User: I exceeded my API limit, now everything stopped working.
+Support: Yes, once limit is exceeded, requests are blocked.
+User: That’s bad 😅
+Support: You can upgrade to Pro plan for higher limits.
+User: Will it reset immediately?
+Support: Yes, after upgrade you’ll get new quota instantly.

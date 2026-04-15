@@ -1,0 +1,18 @@
+Document ID: PROD-001
+Title: Product Overview
+Product: NovaAI Platform
+
+NovaAI is an AI-powered platform that enables users to build, deploy, and manage machine learning models at scale.
+
+Core Features:
+- Model training and evaluation
+- API-based deployment
+- Real-time inference
+- Monitoring and logging
+
+Target Users:
+- Data Scientists
+- ML Engineers
+- AI Startups
+
+The platform supports Python-based workflows and integrates with major ML libraries.

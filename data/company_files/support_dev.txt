@@ -1,0 +1,17 @@
+Email ID: EM-003
+From: support@technova.ai
+To: dev@technova.ai
+Subject: Frequent Deployment Failures
+
+Hey,
+
+We’re getting repeated complaints about deployment failures.
+
+Common issues:
+- Unsupported file formats (.h5)
+- Large model sizes
+
+Suggestion:
+Add validation before upload to reduce failures.
+
+- Support Team

@@ -1,0 +1,14 @@
+Document ID: FAQ-007
+Title: Mixed Context FAQs
+
+Q: Can I deploy a model and use it without API?
+A: No, predictions are only accessible via API.
+
+Q: If I upgrade to Pro, will my old models get GPU?
+A: Yes, but you need to redeploy them.
+
+Q: Can I take leave and still access NovaAI?
+A: Yes, product access is independent of HR policies.
+
+Q: What happens if I exceed API limit?
+A: Requests will fail until quota resets or you upgrade.

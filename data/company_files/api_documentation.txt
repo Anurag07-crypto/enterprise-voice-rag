@@ -1,0 +1,28 @@
+Document ID: PROD-002
+Title: Inference API Documentation
+Product: NovaAI Platform
+
+Endpoint:
+POST /api/v1/predict
+
+Description:
+Used to generate predictions from deployed models.
+
+Request Format:
+{
+  "model_id": "string",
+  "input_data": {}
+}
+
+Response Format:
+{
+  "prediction": {},
+  "confidence_score": float
+}
+
+Authentication:
+- Requires API key in headers
+
+Errors:
+- 401: Unauthorized
+- 404: Model not found

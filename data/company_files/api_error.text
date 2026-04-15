@@ -1,0 +1,9 @@
+Chat ID: CS-001
+
+User: Hey, my API is not working. Keeps giving 401 error.
+Support: Hi! That usually means an authentication issue. Are you including your API key in headers?
+User: Umm not sure, I just copied the endpoint.
+Support: Please include your API key in the Authorization header.
+User: Oh okay, let me try.
+User: Yeah it works now, thanks!
+Support: Glad to help 🙂

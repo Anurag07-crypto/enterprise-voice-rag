@@ -1,0 +1,9 @@
+Chat ID: CS-004
+
+User: My model deployed successfully but it's not returning predictions.
+Support: Are you sending input in correct format?
+User: I think so?
+Support: Can you share sample input?
+User: {"data": "test"}
+Support: It should match the model’s expected schema. That might be the issue.
+User: Ohh I didn’t know that.

@@ -1,0 +1,12 @@
+Document ID: PROD-006
+Title: Known Limitations
+Product: NovaAI Platform
+
+Limitations:
+- No support for models larger than 500MB
+- Batch predictions not supported
+- Limited support for non-Python frameworks
+
+Upcoming Improvements:
+- Batch inference support
+- Expanded framework compatibility

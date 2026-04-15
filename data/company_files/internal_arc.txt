@@ -1,0 +1,11 @@
+Document ID: ARCH-009
+Title: Internal Note - Scaling Issues
+
+We’re seeing bottlenecks in vector search when dataset > 1M docs.
+
+Possible fixes:
+- Switch to distributed vector DB
+- Add caching layer
+
+Also API latency spikes during peak hours.
+Need better autoscaling config.

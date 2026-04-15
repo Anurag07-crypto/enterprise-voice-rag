@@ -1,0 +1,13 @@
+Document ID: HR-002
+Title: Remote Work Policy
+Company: TechNova AI
+
+Employees are allowed to work remotely up to 3 days per week.
+
+Rules:
+- Mandatory office presence on Mondays and Fridays.
+- Employees must be available between 10 AM - 5 PM IST.
+- Work-from-home requests must be logged in the HR portal.
+
+Exceptions:
+- Fully remote roles may be granted based on project requirements.

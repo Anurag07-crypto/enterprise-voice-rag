@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+langchain_groq
+chromadb
+sentence-transformers
+dotenv
+faiss-cpu
+groq
+langgraph
+fastapi
+uvicorn
+streamlit

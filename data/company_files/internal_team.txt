@@ -1,0 +1,14 @@
+Document ID: FAQ-006
+Title: Internal Team Questions
+
+Q: Monitoring dashboard feels delayed, is it just me?
+A: No, there’s a known lag (~5–10 sec delay).
+
+Q: Logs sometimes missing requests?
+A: Yeah, happens in edge cases. Fix is in progress.
+
+Q: Can we support TensorFlow models directly?
+A: Not yet, only via conversion.
+
+Q: Why do some deployments randomly fail?
+A: Usually due to environment mismatch.

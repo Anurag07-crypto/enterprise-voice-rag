@@ -1,0 +1,17 @@
+Document ID: ARCH-007
+Title: Security Design
+
+Authentication:
+- API key-based authentication
+
+Authorization:
+- Role-based access control (RBAC)
+
+Data Security:
+- Encryption at rest and in transit
+
+Rate Limiting:
+- Prevents abuse of API endpoints
+
+Known Limitation:
+- No OAuth support currently

@@ -1,0 +1,14 @@
+Email ID: EM-004
+From: dev@technova.ai
+To: all@technova.ai
+Subject: Monitoring Delay Issue
+
+Hi everyone,
+
+There’s a known delay (~5–10 seconds) in monitoring dashboard.
+
+Not critical, but might affect real-time perception.
+
+Fix is in progress.
+
+- Dev Team

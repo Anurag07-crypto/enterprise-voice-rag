@@ -1,0 +1,6 @@
+Chat ID: CS-008
+
+User: Monitoring dashboard seems delayed.
+Support: Yes, there is a known delay of a few seconds.
+User: Is it a bug?
+Support: Not critical, but the team is working on improving it.

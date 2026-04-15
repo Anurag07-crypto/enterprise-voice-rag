@@ -1,0 +1,19 @@
+Document ID: HR-001
+Title: Leave Policy
+Company: TechNova AI
+
+Employees are entitled to 20 paid leaves per calendar year.
+
+Leave Types:
+- Casual Leave: 10 days
+- Sick Leave: 7 days
+- Earned Leave: 3 days
+
+Unused leaves cannot be carried forward.
+
+Approval Process:
+- Leaves longer than 2 days require manager approval.
+- Emergency sick leave can be taken without prior notice.
+
+Note:
+Frequent absenteeism may impact performance reviews.

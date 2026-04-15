@@ -1,0 +1,13 @@
+Meeting ID: MT-003
+Title: RAG Improvement Discussion
+
+Topics:
+- Retrieval quality is inconsistent
+- Some irrelevant docs appearing in top results
+
+Suggestions:
+- Add reranking layer
+- Improve chunking strategy
+
+Decision:
+- Test reranker before next release

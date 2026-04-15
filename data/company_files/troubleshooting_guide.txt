@@ -1,0 +1,18 @@
+Document ID: PROD-007
+Title: Troubleshooting Guide
+Product: NovaAI Platform
+
+Issue: Model deployment failed
+Solution:
+- Check file format (.pkl or .onnx only)
+- Ensure file size < 500MB
+
+Issue: API returning 401 error
+Solution:
+- Verify API key
+- Check header format
+
+Issue: High latency
+Solution:
+- Upgrade to GPU plan
+- Optimize model size

@@ -1,0 +1,15 @@
+Document ID: HR-008
+Title: HR FAQ
+Company: TechNova AI
+
+Q: Can I take sick leave without approval?
+A: Yes, up to 2 days.
+
+Q: Can I work fully remote?
+A: Only if approved under exception policy.
+
+Q: Are unused leaves carried forward?
+A: Depends on policy version. Check latest HR update.
+
+Q: What happens if I am late frequently?
+A: It may impact your performance review.

@@ -1,0 +1,14 @@
+Document ID: FAQ-002
+Title: Model & Deployment FAQs
+
+Q: What model formats are supported?
+A: .pkl and .onnx
+
+Q: Is there a size limit?
+A: Yes, models must be under 500MB.
+
+Q: How long does deployment take?
+A: Usually between 2–5 minutes.
+
+Q: Can I redeploy a model?
+A: Yes, but it will overwrite the existing version.
